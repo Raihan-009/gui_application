@@ -30,6 +30,7 @@ First part to login with your gmail, and second to do your formalities and final
 ## Here is the second demo for single page
 
 Here is only three steps to send a mail. Firstly you have to enter your mail address and password to stay log in with the server and second thing is enter your reciever mail address and thirdly you have to write down the subject and message whatever you want. And finally you will get a confirmation message box either your mail has been sent or not. 
+
 ![Screenshot (252)](https://user-images.githubusercontent.com/64744693/85593788-28c45c00-b669-11ea-970f-eae5eac7eed2.png)
 ![Screenshot (253)](https://user-images.githubusercontent.com/64744693/85593801-2c57e300-b669-11ea-8b23-946c3c788f95.png)
 ![Screenshot (254)](https://user-images.githubusercontent.com/64744693/85593810-2e21a680-b669-11ea-9f79-d7783af79d0e.png)
