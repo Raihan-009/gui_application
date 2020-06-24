@@ -1,5 +1,8 @@
 # gui_application
 Here I've done several project based on python tkinter.
+such as
+1. Mail Application
+2. Text encryption decryption system
 
 
 ## mail_application
